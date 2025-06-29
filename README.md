@@ -1,7 +1,7 @@
 A phonestand, should work with most phones.
 I created it for my own QI charger which fits perfectly.
 
-![Phonestand](phonestand.jpg)
+![Phonestand](phonestand.png)
 
 # DISCLAIMER
 
